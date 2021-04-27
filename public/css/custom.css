@@ -1,0 +1,88 @@
+.bg-dark{
+	background-color: #F5F1F1!important;
+	box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+	padding: 0px;
+	height: 68px;
+}
+div#infologin{
+	position: absolute;
+	font-size: 32px;
+	width: 400px;
+	color: #fff;
+	top: 165px;
+	left: -100px;
+	text-align: center;
+	
+}
+div#registro{
+	width: 180px;
+	height: 68px;
+	background-color: #5eb319;
+	position: relative;
+	line-height: 50px;
+	left: 16px;
+}
+div#forml{
+	position: relative;
+	top: 85px;
+	left: 600px;
+	background-color: rgba(255,255,255,.9);
+	color: #000;
+}
+img#senal{
+	position: absolute;
+	top: 30px;
+	left: 720px;
+}
+body#loginfondo{
+	overflow: 99;
+}
+div#login{
+	position: absolute;
+}
+tbody.results{
+	background-color: #fff!important;
+}
+div#cara{
+	width: 50px;
+	height: 75px;
+	position: relative;
+	top: 455px;
+	left: 150px;
+}
+li{
+	list-style: none;
+}
+p#contador {
+	width: 50px;
+	height: 50px;
+}
+a#btn2{
+	width: 50px;
+	height: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: #CEC0C0;
+	text-decoration: none;
+	color: #000;
+}
+div#persona{
+	width: 50px;
+	height: 85px;
+	position: relative;
+	top: 455px;
+	left: 495px;
+}
+div#silueta{
+	width: 65px;
+	height: 60px;
+	position: relative;
+	top: 190px;
+	left: 400px;
+}div#figura{
+	width: 80px;
+	height: 60px;
+	position: relative;
+	top: 335px;
+	left: 50px;
+}
